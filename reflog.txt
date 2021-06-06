@@ -1,0 +1,13 @@
+618a011 (HEAD -> deathedHeadBranch) HEAD@{0}: commit: deathedHeadBranch
+3639ca6 HEAD@{1}: checkout: moving from 3639ca60c6bd08f898f2e31fa2445513a1fde32e to deathedHeadBranch
+3639ca6 HEAD@{2}: checkout: moving from texts to 3639ca60c6bd08f898f2e31fa2445513a1fde32e
+c494a2a (tag: v1.1, origin/texts, texts) HEAD@{3}: commit: Kant rozprawa
+3639ca6 HEAD@{4}: commit: Lorem ipusum
+647a9a7 (master) HEAD@{5}: checkout: moving from master to texts
+647a9a7 (master) HEAD@{6}: pull --progress origin +refs/heads/master: Fast-forward
+fdb1ba4 HEAD@{7}: checkout: moving from personal_details to master
+05f09ad (tag: v1.0, origin/personal_details, personal_details) HEAD@{8}: commit: E-mail adress.
+e6ddbbf HEAD@{9}: commit: Index number
+0abae6e HEAD@{10}: commit: First name and last name.
+fdb1ba4 HEAD@{11}: checkout: moving from main to personal_details
+fdb1ba4 HEAD@{12}: clone: from github.com:w4rm3r/egzamin.git
